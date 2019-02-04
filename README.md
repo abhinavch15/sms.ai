@@ -1,2 +1,2 @@
 # sms.ai
-Spam Classifyier for SMSs
+Spam classifier for SMSs
